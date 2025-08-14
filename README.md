@@ -26,9 +26,9 @@ I’m a data-driven developer with a focus on **Python**, **Machine Learning**, 
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Practices**  
-![Git](https://img.shields.io/badge/logo=git)
-![Docker](https://img.shields.io/badge/logo=docker)
-![AWS](https://img.shields.io/badge/logo=amazon-aws)
+![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
+![Docker](https://img.shields.io/docker/v/shieldsio/shields?logo=docker&label=Docker%20Image)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
