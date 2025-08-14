@@ -16,19 +16,19 @@ I’m a data-driven developer with a focus on **Python**, **Machine Learning**, 
 
 ### 🛠️ Technical Skills
 **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-%233776AB?logo=python)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **Data & ML**  
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-%23150458?logo=pandas)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![Pytorch](http://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-%23FF6F00?logo=tensorflow)
-![SQL](https://img.shields.io/badge/SQL-Advanced-%234479A1?logo=postgresql)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Practices**  
-![Git](https://img.shields.io/badge/Git-Expert-%23F05032?logo=git)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-%232496ED?logo=docker)
-![AWS](https://img.shields.io/badge/AWS-Basics-%23232F3E?logo=amazon-aws)
+![Git](https://img.shields.io/badge/logo=git)
+![Docker](https://img.shields.io/badge/logo=docker)
+![AWS](https://img.shields.io/badge/logo=amazon-aws)
 
 ---
 
