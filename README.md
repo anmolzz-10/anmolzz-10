@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Data Analyst · Machine Learning Engineer  
+### Data Analyst · Sports Analyst · Business Analyst · Data Science
 ### Building End-to-End Analytics Systems
 
 SQL → Python → ML → BI → Deployment
