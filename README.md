@@ -13,6 +13,7 @@
 
 [![Football Analytics](https://img.shields.io/badge/⚽_Football_Analytics-Live_App-crimson?style=for-the-badge)](https://man-united-post-season-performance-analysis.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-anmolzz--10-181717?style=for-the-badge&logo=github)](https://github.com/anmolzz-10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anmol%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anmol-s-a7a36620b/)
 
 </div>
 
