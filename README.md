@@ -1,15 +1,13 @@
+<p align="center">
+  <img src="YOUR_BANNER_LINK" alt="banner"/>
+</p>
+
 <div align="center">
 
-```
- █████╗ ███╗   ██╗███╗   ███╗ ██████╗ ██╗
-██╔══██╗████╗  ██║████╗ ████║██╔═══██╗██║
-███████║██╔██╗ ██║██╔████╔██║██║   ██║██║
-██╔══██║██║╚██╗██║██║╚██╔╝██║██║   ██║██║
-██║  ██║██║ ╚████║██║ ╚═╝ ██║╚██████╔╝███████╗
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝
-```
+### Data Analyst · Machine Learning Engineer  
+### Building End-to-End Analytics Systems
 
-### Data Analyst & ML Engineer · Turning Raw Data Into Decisions
+SQL → Python → ML → BI → Deployment
 
 [![Football Analytics](https://img.shields.io/badge/⚽_Football_Analytics-Live_App-crimson?style=for-the-badge)](https://man-united-post-season-performance-analysis.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-anmolzz--10-181717?style=for-the-badge&logo=github)](https://github.com/anmolzz-10)
